@@ -333,7 +333,7 @@ class MainScreen extends React.Component {
             console.log(previousSubtask[2])
             previousSubtask[2]+=", "+subtask[2]
             if(previousSubtask[2].length>34){
-              previousSubtask[2]=previousSubtask[2].substring(0,30)+'... and many more'
+              previousSubtask[2]=previousSubtask[2].substring(0,30)+'...'
             }
             var amount = Number(previousSubtask[0])
             amount+=Number(subtask[0])
@@ -393,7 +393,7 @@ class MainScreen extends React.Component {
             console.log(previousSubtask[2])
             previousSubtask[2]+=", "+subtask[2]
             if(previousSubtask[2].length>34){
-              previousSubtask[2]=previousSubtask[2].substring(0,30)+'... and many more'
+              previousSubtask[2]=previousSubtask[2].substring(0,30)+'... '
             }
             var amount = Number(previousSubtask[0])
             amount+=Number(subtask[0])
@@ -455,7 +455,7 @@ class MainScreen extends React.Component {
             console.log(previousSubtask[2])
             previousSubtask[2]+=", "+subtask[2]
             if(previousSubtask[2].length>34){
-              previousSubtask[2]=previousSubtask[2].substring(0,30)+'... and many more'
+              previousSubtask[2]=previousSubtask[2].substring(0,30)+'...'
             }
             var amount = Number(previousSubtask[0])
             amount+=Number(subtask[0])

@@ -1,10 +1,10 @@
 {
-  "expoServerPort": 19000,
-  "packagerPort": 19001,
-  "packagerPid": 13748,
+  "expoServerPort": null,
+  "packagerPort": null,
+  "packagerPid": null,
   "expoServerNgrokUrl": "https://zi-abs.vanurag173.expensemanagernativebase.exp.direct",
   "packagerNgrokUrl": "https://packager.zi-abs.vanurag173.expensemanagernativebase.exp.direct",
-  "ngrokPid": 19168,
+  "ngrokPid": 4636,
   "webpackServerPort": null,
-  "devToolsPort": 19003
+  "devToolsPort": 19002
 }
